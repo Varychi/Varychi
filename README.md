@@ -1,4 +1,4 @@
- <img width="140" src="https://komarev.com/ghpvc/?username=varychi&color=a271c3" alt="varychi">
+   <img width="100" src="https://komarev.com/ghpvc/?username=varychi&color=a271c3" alt="varychi">
 
 ![](https://i.postimg.cc/SxhDybnT/top.png)⠀![](https://i.postimg.cc/CL0TZttt/hearts.gif)】
 ![](https://i.postimg.cc/1zRBq0cD/graphic.png)![](https://i.postimg.cc/gjF9HB0x/drawing.gif)⊹⠀.  
